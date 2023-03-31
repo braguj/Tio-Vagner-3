@@ -1,0 +1,10 @@
+2023/01/16-12:38:30.735 1820 Creating DB /home/aluno/snap/postman/186/.config/Postman/Partitions/4a6cb580-6428-4532-be00-32b290962f65/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2023/01/16-12:38:30.817 1820 Reusing MANIFEST /home/aluno/snap/postman/186/.config/Postman/Partitions/4a6cb580-6428-4532-be00-32b290962f65/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/01/16-12:38:30.918 181f Level-0 table #5: started
+2023/01/16-12:38:30.942 181f Level-0 table #5: 492 bytes OK
+2023/01/16-12:38:30.968 181f Delete type=0 #3
+2023/01/16-12:38:30.968 181f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/16-12:38:31.043 1820 Level-0 table #7: started
+2023/01/16-12:38:31.077 1820 Level-0 table #7: 477 bytes OK
+2023/01/16-12:38:31.127 1820 Delete type=0 #4
+2023/01/16-12:38:31.127 1820 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
